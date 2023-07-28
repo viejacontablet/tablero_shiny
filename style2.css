@@ -1,0 +1,221 @@
+
+
+/* Esto es la barra de arriba que tiene el nombre del tablero */
+
+      .skin-blue .main-header .logo {
+            background-color: #282829 !important;
+            color: #40abed;
+            border-bottom: 0 solid transparent;
+            }
+      .skin-blue .main-header .navbar {
+            background-color: #000000 !important;
+            }
+            
+/* Esto es para el espacio entre la barra de arriba y el contenido del tablero */            
+      .content{background-color: #282829;}
+      
+/* Esto es LA columna del tablero, de aca se desprende todo */      
+      .row > [class*='col-'] {
+        padding-left: 0px;
+        padding-right: 0px;
+        background-color: #282829;}
+/* Esto es a todas las box */ 
+      .box{ border-radius: 10px;
+            background-color: #282829;
+            border: 1px solid #ddd; 
+            margin-bottom: 5px;
+            }
+            
+/* Esto es para  elemento creado con div que está dice numero de sereis*/ 
+     .box-series{
+            padding: 0px;
+            box-sizing: border-box;
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            background-color: #282829;
+            color: #FFFFFF;
+            margin: 0px;
+            }
+      .box-series .text-section {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: flex-start;
+          margin-left: 20px;
+            }
+      .box-series .icon-section {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-top: 20px;
+          margin-right: 35px;
+            }
+      .box-series .value {
+          font-size: 50px;
+          font-weight: bold;
+          color: #FFFFFF;
+          margin-left: 20px;
+            }
+      .box-series .subtitle {
+            font-size: 20px;
+            }
+     
+/* Esto es lo mismo que lo anterior pero otro */      
+     .box-desact{
+            padding: 0px;
+            box-sizing: border-box;
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            background-color: #282829;
+            color: #FFFFFF;
+            margin: 0px;
+            }
+      .box-desact .text-section {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: flex-start;
+          margin-left: 20px;
+            }
+      .box-desact .icon-section {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-top: 20px;
+          margin-right: 57px;
+            }
+      .box-desact .value {
+          font-size: 50px;
+          font-weight: bold;
+          color: #FFFFFF;
+          margin-left: 20px;
+            }
+      .box-desact .subtitle {
+            font-size: 20px;
+            }
+            
+/* Esto es lo mismo que lo anterior pero otro */       
+      .box-errores{
+            padding: 0px;
+            box-sizing: border-box;
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            background-color: #282829;
+            color: #FFFFFF;
+            margin: 0px;
+            }
+      .box-errores .text-section {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: flex-start;
+          margin-left: 20px;
+            }
+      .box-errores .icon-section {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-top: 20px;
+          margin-right: 35px;
+            }
+      .box-errores .value {
+          font-size: 50px;
+          font-weight: bold;
+          color: #FFFFFF;
+          margin-left: 20px;
+            }
+      .box-errores .subtitle {
+            font-size: 20px;
+            }
+
+/* no me acuerdo */ 
+      .box.box-solid { height: 100%; 
+            } 
+            
+
+      
+      .col-sm-3 { padding-left: 0px; padding-right: 0px; margin-left: 0px; margin-right: 0px; 
+            }
+      .col-sm-6 { padding-left: 0px; padding-right: 0px; margin-left: 0px; margin-right: 0px;
+            }
+            
+/* Esto es el texto de adentro de los filtros de selección*/            
+            
+      .selectize-input {
+      color: #f36b39;
+            }
+/* la parte de adentro de la rallita en la que selecciono*/
+      .selectize-input.full {
+      background-color: #282829;
+            }
+            
+/* Esto es el máximo en los numeritos que tiene el filtro, el minimo y los numeritos del medio */            
+            
+      .irs-max{
+        color:#f36b39 !important;
+      }    
+      .irs-grid{
+        color:#f36b39!important;
+      }
+      .irs-min{
+        color:#f36b39!important;
+      }
+          
+/* Esto es el texto de arriba de todos los filtros del documento */             
+      label.control-label {
+      color: #f36b39 !important;
+            }
+/* Esto es la barrita de adentro del filtro slider */ 
+      .irs--shiny .irs-bar {
+    top: 25px;
+    height: 8px;
+    border-top: 1px solid #f36b39 !important;
+    border-bottom: 1px solid #f36b39 !important;
+    background: #3d3d3d !important;
+            }
+            
+/* Esto es las etiquetas con los valores de los extremos seleccionados de los filtros slider */             
+    .irs--shiny .irs-from, .irs--shiny .irs-to, .irs--shiny .irs-single {
+    color: #fff;
+    text-shadow: none;
+    padding: 1px 3px;
+    background-color: #f36b39 !important;
+    border-radius: 3px;
+    font-size: 11px;
+    line-height: 1.333;
+            }
+            
+/* este es para lo de las tablas*/            
+.box .tab-pane{  /* Selector: apunta a .tab-pane (el contenido de cada panel de tab) dentro de #tabset1 */
+        overflow: auto;  /* Regla: muestra barras de desplazamiento si es necesario */
+         /* Fija la altura para que las barras de desplazamiento aparezcan */
+      }  
+      
+.col-sm-12 .nav-tabs-custom {
+  overflow: auto !important;  /* Regla: muestra barras de desplazamiento si es necesario */
+          /* Fija la altura para que las barras de desplazamiento aparezcan */
+        background-color:#282829 !important;
+}
+
+/* para lo que está al rededor de la tabla*/
+
+.nav-tabs-custom .tab-content {
+    background: #282829;
+    padding: 10px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+/* parte de la solapa de la box de las tablas*/
+.nav-tabs-custom>.nav-tabs>li.active:hover>a, .nav-tabs-custom>.nav-tabs>li.active>a {
+    background-color: #282829;
+    color: #f36b39;
+}
+
+/* parte de la solapa el bordecito de arriba*/
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #f36b39;
+}
