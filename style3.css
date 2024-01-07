@@ -1,0 +1,284 @@
+
+
+:root {
+  --main-bg-color: #000000;
+  --highlight-color: #40abed;
+  --white-color: #FFFFFF;
+  --border-color: #000000;
+  --text-color: #FFFFFF;
+}
+
+/* Esto es la barra de arriba que tiene el nombre del tablero */
+.skin-blue .main-header .logo {
+  background-color: var(--main-bg-color) !important;
+  color: var(--highlight-color);
+  border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header .navbar {
+  background-color: var(--main-bg-color) !important;
+}
+
+/* Esto es para el espacio entre la barra de arriba y el contenido del tablero */            
+.content {
+  background-color: var(--main-bg-color);
+}
+
+/* Esto es LA columna del tablero, de aca se desprende todo */      
+.row > [class*='col-'] {
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: var(--main-bg-color);
+}
+
+/* Esto es a todas las box */ 
+.box { 
+  border-radius: 10px;
+  background-color: var(--main-bg-color);
+  border: 1px solid var(--border-color); 
+  margin-bottom: 5px;
+}
+
+/* Esto es para elemento creado con div que está dice numero de series*/ 
+.box-series {
+  padding: 0px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: var(--main-bg-color);
+  color: var(--white-color);
+  margin: 0px;
+}
+.box-series .text-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 20px;
+}
+.box-series .icon-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-right: 35px;
+}
+.box-series .value {
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--white-color);
+  margin-left: 20px;
+}
+.box-series .subtitle {
+  font-size: 20px;
+  color: var(--white-color);
+}
+
+/* Esto es lo mismo que lo anterior pero otro */      
+.box-desact {
+  padding: 0px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: var(--main-bg-color);
+  color: var(--white-color);
+  margin: 0px;
+}
+.box-desact .text-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 20px;
+}
+.box-desact .icon-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-right: 57px;
+}
+.box-desact .value {
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--white-color);
+  margin-left: 20px;
+}
+.box-desact .subtitle {
+  font-size: 20px;
+  color: var(--white-color);
+}
+
+/* Esto es lo mismo que lo anterior pero otro */       
+.box-errores {
+  padding: 0px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: var(--main-bg-color);
+  color: var(--white-color);
+  margin: 0px;
+}
+.box-errores .text-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 20px;
+}
+.box-errores .icon-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-right: 35px;
+}
+.box-errores .value {
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--white-color);
+  margin-left: 20px;
+}
+.box-errores .subtitle {
+  font-size: 20px;
+  color: var(--white-color);
+}
+
+/* Selector de columnas */ 
+.col-sm-3 { 
+  padding-left: 0px; 
+  padding-right: 0px; 
+  margin-left: 0px; 
+  margin-right: 0px; 
+}
+.col-sm-6 { 
+  padding-left: 0px; 
+  padding-right: 0px; 
+  margin-left: 0px; 
+  margin-right: 0px;
+}
+
+/* Selector para el texto dentro de los filtros de selección */            
+.selectize-input {
+  color: var(--highlight-color);
+}
+.selectize-input.full {
+  background-color: var(--main-bg-color);
+}
+
+/* Selectores para las partes de los filtros slider */            
+.irs-max {
+  color: var(--highlight-color) !important;
+}    
+.irs-grid {
+  color: var(--highlight-color) !important;
+}
+.irs-min {
+  color: var(--highlight-color) !important;
+}
+
+/* Selector para el texto de arriba de todos los filtros del documento */             
+label.control-label {
+  color: var(--highlight-color) !important;
+}
+
+/* Selector para la barrita de adentro del filtro slider */ 
+.irs--shiny .irs-bar {
+  top: 25px;
+  height: 8px;
+  border-top: 1px solid var(--main-bg-color) !important;
+  border-bottom: 1px solid var(--main-bg-color) !important;
+  background: var(--highlight-color) !important;
+}
+
+/* Selector para las etiquetas con los valores de los extremos seleccionados de los filtros slider */             
+.irs--shiny .irs-from, .irs--shiny .irs-to, .irs--shiny .irs-single {
+  color: var(--white-color);
+  text-shadow: none;
+  padding: 1px 3px;
+  background-color: var(--highlight-color) !important;
+  border-radius: 3px;
+  font-size: 11px;
+  line-height: 1.333;
+}
+
+/* Selector para lo de las tablas */            
+.box .tab-pane {  
+  overflow: auto; 
+}
+
+.col-sm-12 .nav-tabs-custom {
+  overflow: auto !important;
+  background-color: var(--main-bg-color) !important;
+}
+
+/* Selector para lo que está alrededor de la tabla */
+.nav-tabs-custom .tab-content {
+  background: var(--main-bg-color);
+  padding: 10px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+/* Selector para la parte de la solapa de la box de las tablas */
+.nav-tabs-custom>.nav-tabs>li.active:hover>a, .nav-tabs-custom>.nav-tabs>li.active>a {
+  background-color: var(--main-bg-color);
+  color: var(--highlight-color);
+}
+
+/* Selector para la parte de la solapa el bordecito de arriba */
+.nav-tabs-custom>.nav-tabs>li.active {
+  border-top-color: var(--highlight-color);
+}
+
+/* Selector para la zona de carga */
+.zona_carga {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  height: 70vh !important;
+  width: 100% !important;
+}
+
+.mi_div {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin: 2px !important;
+}
+
+/* Selector para las solapas que no están siendo seleccionadas */
+.nav-tabs-custom>.nav-tabs>li>a {
+  color: var(--text-color);
+  border-radius: 5;
+}
+
+/* Selector para los botones por defecto */
+.btn-default {
+    background-color: var(--highlight-color) !important;
+    color: var(--text-color) !important;
+    border-color: var(--highlight-color) !important;
+    border-radius: 30px !important;
+    border: 3px !important;
+}
+
+/* Text input */
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: var(--text-color) !important;
+    background-color: var(--main-bg-color) !important;
+    background-image: none;
+    border: 1px solid var(--white-color) !important;
+    border-radius: 10px;
+}

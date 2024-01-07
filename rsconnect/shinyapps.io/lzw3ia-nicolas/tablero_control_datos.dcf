@@ -1,0 +1,12 @@
+name: tablero_control_datos
+title: tablero_control_datos
+username: lzw3ia-nicolas
+account: lzw3ia-nicolas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10879610
+bundleId: 8117736
+url: https://lzw3ia-nicolas.shinyapps.io/tablero_control_datos/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,617 @@
+"id_serie","trimestre","anio","indicador","sexo","valor"
+8,"3º Trim",2003,"Ingreso asalariados","Mujeres",545
+8,"4º Trim",2003,"Ingreso asalariados","Mujeres",544
+8,"1º Trim",2004,"Ingreso asalariados","Mujeres",567
+8,"2º Trim",2004,"Ingreso asalariados","Mujeres",547
+8,"3º Trim",2004,"Ingreso asalariados","Mujeres",565
+8,"4º Trim",2004,"Ingreso asalariados","Mujeres",576
+8,"1º Trim",2005,"Ingreso asalariados","Mujeres",599
+8,"2º Trim",2005,"Ingreso asalariados","Mujeres",618
+8,"3º Trim",2005,"Ingreso asalariados","Mujeres",668
+8,"4º Trim",2005,"Ingreso asalariados","Mujeres",703
+8,"1º Trim",2006,"Ingreso asalariados","Mujeres",761
+8,"2º Trim",2006,"Ingreso asalariados","Mujeres",771
+8,"3º Trim",2006,"Ingreso asalariados","Mujeres",825
+8,"4º Trim",2006,"Ingreso asalariados","Mujeres",870
+8,"1º Trim",2007,"Ingreso asalariados","Mujeres",914
+8,"2º Trim",2007,"Ingreso asalariados","Mujeres",948
+8,"3º Trim",2007,"Ingreso asalariados","Mujeres",NA
+8,"4º Trim",2007,"Ingreso asalariados","Mujeres",1051
+8,"1º Trim",2008,"Ingreso asalariados","Mujeres",1172
+8,"2º Trim",2008,"Ingreso asalariados","Mujeres",1262
+8,"3º Trim",2008,"Ingreso asalariados","Mujeres",1301
+8,"4º Trim",2008,"Ingreso asalariados","Mujeres",1362
+8,"1º Trim",2009,"Ingreso asalariados","Mujeres",1502
+8,"2º Trim",2009,"Ingreso asalariados","Mujeres",1530
+8,"3º Trim",2009,"Ingreso asalariados","Mujeres",1622
+8,"4º Trim",2009,"Ingreso asalariados","Mujeres",1689
+8,"1º Trim",2010,"Ingreso asalariados","Mujeres",1808
+8,"2º Trim",2010,"Ingreso asalariados","Mujeres",1856
+8,"3º Trim",2010,"Ingreso asalariados","Mujeres",1962
+8,"4º Trim",2010,"Ingreso asalariados","Mujeres",2173
+8,"1º Trim",2011,"Ingreso asalariados","Mujeres",2281
+8,"2º Trim",2011,"Ingreso asalariados","Mujeres",2409
+8,"3º Trim",2011,"Ingreso asalariados","Mujeres",2615
+8,"4º Trim",2011,"Ingreso asalariados","Mujeres",2763
+8,"1º Trim",2012,"Ingreso asalariados","Mujeres",2963
+8,"2º Trim",2012,"Ingreso asalariados","Mujeres",3058
+8,"3º Trim",2012,"Ingreso asalariados","Mujeres",3181
+8,"4º Trim",2012,"Ingreso asalariados","Mujeres",3369
+8,"1º Trim",2013,"Ingreso asalariados","Mujeres",3715
+8,"2º Trim",2013,"Ingreso asalariados","Mujeres",3785
+8,"3º Trim",2013,"Ingreso asalariados","Mujeres",4216
+8,"4º Trim",2013,"Ingreso asalariados","Mujeres",4306
+8,"1º Trim",2014,"Ingreso asalariados","Mujeres",4690
+8,"2º Trim",2014,"Ingreso asalariados","Mujeres",4960
+8,"3º Trim",2014,"Ingreso asalariados","Mujeres",5339
+8,"4º Trim",2014,"Ingreso asalariados","Mujeres",5816
+8,"1º Trim",2015,"Ingreso asalariados","Mujeres",6192
+8,"2º Trim",2015,"Ingreso asalariados","Mujeres",6639
+8,"3º Trim",2015,"Ingreso asalariados","Mujeres",NA
+8,"4º Trim",2015,"Ingreso asalariados","Mujeres",NA
+8,"1º Trim",2016,"Ingreso asalariados","Mujeres",NA
+8,"2º Trim",2016,"Ingreso asalariados","Mujeres",9137
+8,"3º Trim",2016,"Ingreso asalariados","Mujeres",9614
+8,"4º Trim",2016,"Ingreso asalariados","Mujeres",10140
+8,"1º Trim",2017,"Ingreso asalariados","Mujeres",10829
+8,"2º Trim",2017,"Ingreso asalariados","Mujeres",11329
+8,"3º Trim",2017,"Ingreso asalariados","Mujeres",12015
+8,"4º Trim",2017,"Ingreso asalariados","Mujeres",12897
+8,"1º Trim",2018,"Ingreso asalariados","Mujeres",13917
+8,"2º Trim",2018,"Ingreso asalariados","Mujeres",14291
+8,"3º Trim",2018,"Ingreso asalariados","Mujeres",14813
+8,"4º Trim",2018,"Ingreso asalariados","Mujeres",16583
+8,"1º Trim",2019,"Ingreso asalariados","Mujeres",17503
+8,"2º Trim",2019,"Ingreso asalariados","Mujeres",19594
+8,"3º Trim",2019,"Ingreso asalariados","Mujeres",21853
+8,"4º Trim",2019,"Ingreso asalariados","Mujeres",23661
+8,"1º Trim",2020,"Ingreso asalariados","Mujeres",26204
+8,"2º Trim",2020,"Ingreso asalariados","Mujeres",30119
+8,"3º Trim",2020,"Ingreso asalariados","Mujeres",30156
+8,"4º Trim",2020,"Ingreso asalariados","Mujeres",32117
+8,"1º Trim",2021,"Ingreso asalariados","Mujeres",36656
+8,"2º Trim",2021,"Ingreso asalariados","Mujeres",40089
+8,"3º Trim",2021,"Ingreso asalariados","Mujeres",43713
+8,"4º Trim",2021,"Ingreso asalariados","Mujeres",49096
+8,"1º Trim",2022,"Ingreso asalariados","Mujeres",55172
+8,"2º Trim",2022,"Ingreso asalariados","Mujeres",59606
+8,"3º Trim",2022,"Ingreso asalariados","Mujeres",72379
+8,"3º Trim",2003,"Ingreso asalariados","Varones",685
+8,"4º Trim",2003,"Ingreso asalariados","Varones",734
+8,"1º Trim",2004,"Ingreso asalariados","Varones",783
+8,"2º Trim",2004,"Ingreso asalariados","Varones",752
+8,"3º Trim",2004,"Ingreso asalariados","Varones",762
+8,"4º Trim",2004,"Ingreso asalariados","Varones",785
+8,"1º Trim",2005,"Ingreso asalariados","Varones",844
+8,"2º Trim",2005,"Ingreso asalariados","Varones",872
+8,"3º Trim",2005,"Ingreso asalariados","Varones",925
+8,"4º Trim",2005,"Ingreso asalariados","Varones",964
+8,"1º Trim",2006,"Ingreso asalariados","Varones",1051
+8,"2º Trim",2006,"Ingreso asalariados","Varones",1087
+8,"3º Trim",2006,"Ingreso asalariados","Varones",1134
+8,"4º Trim",2006,"Ingreso asalariados","Varones",1185
+8,"1º Trim",2007,"Ingreso asalariados","Varones",1260
+8,"2º Trim",2007,"Ingreso asalariados","Varones",1330
+8,"3º Trim",2007,"Ingreso asalariados","Varones",NA
+8,"4º Trim",2007,"Ingreso asalariados","Varones",1519
+8,"1º Trim",2008,"Ingreso asalariados","Varones",1605
+8,"2º Trim",2008,"Ingreso asalariados","Varones",1674
+8,"3º Trim",2008,"Ingreso asalariados","Varones",1802
+8,"4º Trim",2008,"Ingreso asalariados","Varones",1883
+8,"1º Trim",2009,"Ingreso asalariados","Varones",1955
+8,"2º Trim",2009,"Ingreso asalariados","Varones",2015
+8,"3º Trim",2009,"Ingreso asalariados","Varones",2153
+8,"4º Trim",2009,"Ingreso asalariados","Varones",2189
+8,"1º Trim",2010,"Ingreso asalariados","Varones",2349
+8,"2º Trim",2010,"Ingreso asalariados","Varones",2470
+8,"3º Trim",2010,"Ingreso asalariados","Varones",2671
+8,"4º Trim",2010,"Ingreso asalariados","Varones",2823
+8,"1º Trim",2011,"Ingreso asalariados","Varones",2975
+8,"2º Trim",2011,"Ingreso asalariados","Varones",3260
+8,"3º Trim",2011,"Ingreso asalariados","Varones",3503
+8,"4º Trim",2011,"Ingreso asalariados","Varones",3749
+8,"1º Trim",2012,"Ingreso asalariados","Varones",3885
+8,"2º Trim",2012,"Ingreso asalariados","Varones",4052
+8,"3º Trim",2012,"Ingreso asalariados","Varones",4317
+8,"4º Trim",2012,"Ingreso asalariados","Varones",4442
+8,"1º Trim",2013,"Ingreso asalariados","Varones",4938
+8,"2º Trim",2013,"Ingreso asalariados","Varones",5056
+8,"3º Trim",2013,"Ingreso asalariados","Varones",5504
+8,"4º Trim",2013,"Ingreso asalariados","Varones",5877
+8,"1º Trim",2014,"Ingreso asalariados","Varones",6259
+8,"2º Trim",2014,"Ingreso asalariados","Varones",6676
+8,"3º Trim",2014,"Ingreso asalariados","Varones",7058
+8,"4º Trim",2014,"Ingreso asalariados","Varones",7682
+8,"1º Trim",2015,"Ingreso asalariados","Varones",8035
+8,"2º Trim",2015,"Ingreso asalariados","Varones",8511
+8,"3º Trim",2015,"Ingreso asalariados","Varones",NA
+8,"4º Trim",2015,"Ingreso asalariados","Varones",NA
+8,"1º Trim",2016,"Ingreso asalariados","Varones",NA
+8,"2º Trim",2016,"Ingreso asalariados","Varones",11825
+8,"3º Trim",2016,"Ingreso asalariados","Varones",12424
+8,"4º Trim",2016,"Ingreso asalariados","Varones",13420
+8,"1º Trim",2017,"Ingreso asalariados","Varones",14473
+8,"2º Trim",2017,"Ingreso asalariados","Varones",15188
+8,"3º Trim",2017,"Ingreso asalariados","Varones",15967
+8,"4º Trim",2017,"Ingreso asalariados","Varones",16813
+8,"1º Trim",2018,"Ingreso asalariados","Varones",18483
+8,"2º Trim",2018,"Ingreso asalariados","Varones",19139
+8,"3º Trim",2018,"Ingreso asalariados","Varones",20010
+8,"4º Trim",2018,"Ingreso asalariados","Varones",21915
+8,"1º Trim",2019,"Ingreso asalariados","Varones",23444
+8,"2º Trim",2019,"Ingreso asalariados","Varones",25583
+8,"3º Trim",2019,"Ingreso asalariados","Varones",28397
+8,"4º Trim",2019,"Ingreso asalariados","Varones",30852
+8,"1º Trim",2020,"Ingreso asalariados","Varones",33760
+8,"2º Trim",2020,"Ingreso asalariados","Varones",38668
+8,"3º Trim",2020,"Ingreso asalariados","Varones",38084
+8,"4º Trim",2020,"Ingreso asalariados","Varones",40251
+8,"1º Trim",2021,"Ingreso asalariados","Varones",47315
+8,"2º Trim",2021,"Ingreso asalariados","Varones",54200
+8,"3º Trim",2021,"Ingreso asalariados","Varones",58374
+8,"4º Trim",2021,"Ingreso asalariados","Varones",62461
+8,"1º Trim",2022,"Ingreso asalariados","Varones",74601
+8,"2º Trim",2022,"Ingreso asalariados","Varones",81678
+8,"3º Trim",2022,"Ingreso asalariados","Varones",91133
+8,"3º Trim",2003,"Ingreso asalariados plenos","Mujeres",726
+8,"4º Trim",2003,"Ingreso asalariados plenos","Mujeres",725
+8,"1º Trim",2004,"Ingreso asalariados plenos","Mujeres",727
+8,"2º Trim",2004,"Ingreso asalariados plenos","Mujeres",711
+8,"3º Trim",2004,"Ingreso asalariados plenos","Mujeres",748
+8,"4º Trim",2004,"Ingreso asalariados plenos","Mujeres",763
+8,"1º Trim",2005,"Ingreso asalariados plenos","Mujeres",741
+8,"2º Trim",2005,"Ingreso asalariados plenos","Mujeres",806
+8,"3º Trim",2005,"Ingreso asalariados plenos","Mujeres",883
+8,"4º Trim",2005,"Ingreso asalariados plenos","Mujeres",911
+8,"1º Trim",2006,"Ingreso asalariados plenos","Mujeres",983
+8,"2º Trim",2006,"Ingreso asalariados plenos","Mujeres",998
+8,"3º Trim",2006,"Ingreso asalariados plenos","Mujeres",1081
+8,"4º Trim",2006,"Ingreso asalariados plenos","Mujeres",1103
+8,"1º Trim",2007,"Ingreso asalariados plenos","Mujeres",1143
+8,"2º Trim",2007,"Ingreso asalariados plenos","Mujeres",1223
+8,"3º Trim",2007,"Ingreso asalariados plenos","Mujeres",NA
+8,"4º Trim",2007,"Ingreso asalariados plenos","Mujeres",1328
+8,"1º Trim",2008,"Ingreso asalariados plenos","Mujeres",1391
+8,"2º Trim",2008,"Ingreso asalariados plenos","Mujeres",1566
+8,"3º Trim",2008,"Ingreso asalariados plenos","Mujeres",1628
+8,"4º Trim",2008,"Ingreso asalariados plenos","Mujeres",1664
+8,"1º Trim",2009,"Ingreso asalariados plenos","Mujeres",1842
+8,"2º Trim",2009,"Ingreso asalariados plenos","Mujeres",1953
+8,"3º Trim",2009,"Ingreso asalariados plenos","Mujeres",2047
+8,"4º Trim",2009,"Ingreso asalariados plenos","Mujeres",2139
+8,"1º Trim",2010,"Ingreso asalariados plenos","Mujeres",2243
+8,"2º Trim",2010,"Ingreso asalariados plenos","Mujeres",2366
+8,"3º Trim",2010,"Ingreso asalariados plenos","Mujeres",2459
+8,"4º Trim",2010,"Ingreso asalariados plenos","Mujeres",2765
+8,"1º Trim",2011,"Ingreso asalariados plenos","Mujeres",2791
+8,"2º Trim",2011,"Ingreso asalariados plenos","Mujeres",3049
+8,"3º Trim",2011,"Ingreso asalariados plenos","Mujeres",3352
+8,"4º Trim",2011,"Ingreso asalariados plenos","Mujeres",3491
+8,"1º Trim",2012,"Ingreso asalariados plenos","Mujeres",3712
+8,"2º Trim",2012,"Ingreso asalariados plenos","Mujeres",3950
+8,"3º Trim",2012,"Ingreso asalariados plenos","Mujeres",4166
+8,"4º Trim",2012,"Ingreso asalariados plenos","Mujeres",4426
+8,"1º Trim",2013,"Ingreso asalariados plenos","Mujeres",4691
+8,"2º Trim",2013,"Ingreso asalariados plenos","Mujeres",4823
+8,"3º Trim",2013,"Ingreso asalariados plenos","Mujeres",5444
+8,"4º Trim",2013,"Ingreso asalariados plenos","Mujeres",5474
+8,"1º Trim",2014,"Ingreso asalariados plenos","Mujeres",5908
+8,"2º Trim",2014,"Ingreso asalariados plenos","Mujeres",6405
+8,"3º Trim",2014,"Ingreso asalariados plenos","Mujeres",6835
+8,"4º Trim",2014,"Ingreso asalariados plenos","Mujeres",7457
+8,"1º Trim",2015,"Ingreso asalariados plenos","Mujeres",7806
+8,"2º Trim",2015,"Ingreso asalariados plenos","Mujeres",8551
+8,"3º Trim",2015,"Ingreso asalariados plenos","Mujeres",NA
+8,"4º Trim",2015,"Ingreso asalariados plenos","Mujeres",NA
+8,"1º Trim",2016,"Ingreso asalariados plenos","Mujeres",NA
+8,"2º Trim",2016,"Ingreso asalariados plenos","Mujeres",11788
+8,"3º Trim",2016,"Ingreso asalariados plenos","Mujeres",12505
+8,"4º Trim",2016,"Ingreso asalariados plenos","Mujeres",13489
+8,"1º Trim",2017,"Ingreso asalariados plenos","Mujeres",13639
+8,"2º Trim",2017,"Ingreso asalariados plenos","Mujeres",14900
+8,"3º Trim",2017,"Ingreso asalariados plenos","Mujeres",15512
+8,"4º Trim",2017,"Ingreso asalariados plenos","Mujeres",17108
+8,"1º Trim",2018,"Ingreso asalariados plenos","Mujeres",18317
+8,"2º Trim",2018,"Ingreso asalariados plenos","Mujeres",18627
+8,"3º Trim",2018,"Ingreso asalariados plenos","Mujeres",19979
+8,"4º Trim",2018,"Ingreso asalariados plenos","Mujeres",22550
+8,"1º Trim",2019,"Ingreso asalariados plenos","Mujeres",22865
+8,"2º Trim",2019,"Ingreso asalariados plenos","Mujeres",25915
+8,"3º Trim",2019,"Ingreso asalariados plenos","Mujeres",28625
+8,"4º Trim",2019,"Ingreso asalariados plenos","Mujeres",31633
+8,"1º Trim",2020,"Ingreso asalariados plenos","Mujeres",33628
+8,"2º Trim",2020,"Ingreso asalariados plenos","Mujeres",39538
+8,"3º Trim",2020,"Ingreso asalariados plenos","Mujeres",39965
+8,"4º Trim",2020,"Ingreso asalariados plenos","Mujeres",43410
+8,"1º Trim",2021,"Ingreso asalariados plenos","Mujeres",47743
+8,"2º Trim",2021,"Ingreso asalariados plenos","Mujeres",52770
+8,"3º Trim",2021,"Ingreso asalariados plenos","Mujeres",58884
+8,"4º Trim",2021,"Ingreso asalariados plenos","Mujeres",63476
+8,"1º Trim",2022,"Ingreso asalariados plenos","Mujeres",72094
+8,"2º Trim",2022,"Ingreso asalariados plenos","Mujeres",76984
+8,"3º Trim",2022,"Ingreso asalariados plenos","Mujeres",95670
+8,"3º Trim",2003,"Ingreso asalariados plenos","Varones",753
+8,"4º Trim",2003,"Ingreso asalariados plenos","Varones",802
+8,"1º Trim",2004,"Ingreso asalariados plenos","Varones",849
+8,"2º Trim",2004,"Ingreso asalariados plenos","Varones",827
+8,"3º Trim",2004,"Ingreso asalariados plenos","Varones",813
+8,"4º Trim",2004,"Ingreso asalariados plenos","Varones",851
+8,"1º Trim",2005,"Ingreso asalariados plenos","Varones",882
+8,"2º Trim",2005,"Ingreso asalariados plenos","Varones",938
+8,"3º Trim",2005,"Ingreso asalariados plenos","Varones",1000
+8,"4º Trim",2005,"Ingreso asalariados plenos","Varones",1033
+8,"1º Trim",2006,"Ingreso asalariados plenos","Varones",1098
+8,"2º Trim",2006,"Ingreso asalariados plenos","Varones",1166
+8,"3º Trim",2006,"Ingreso asalariados plenos","Varones",1220
+8,"4º Trim",2006,"Ingreso asalariados plenos","Varones",1262
+8,"1º Trim",2007,"Ingreso asalariados plenos","Varones",1310
+8,"2º Trim",2007,"Ingreso asalariados plenos","Varones",1428
+8,"3º Trim",2007,"Ingreso asalariados plenos","Varones",NA
+8,"4º Trim",2007,"Ingreso asalariados plenos","Varones",1619
+8,"1º Trim",2008,"Ingreso asalariados plenos","Varones",1670
+8,"2º Trim",2008,"Ingreso asalariados plenos","Varones",1790
+8,"3º Trim",2008,"Ingreso asalariados plenos","Varones",1891
+8,"4º Trim",2008,"Ingreso asalariados plenos","Varones",2003
+8,"1º Trim",2009,"Ingreso asalariados plenos","Varones",2037
+8,"2º Trim",2009,"Ingreso asalariados plenos","Varones",2135
+8,"3º Trim",2009,"Ingreso asalariados plenos","Varones",2293
+8,"4º Trim",2009,"Ingreso asalariados plenos","Varones",2329
+8,"1º Trim",2010,"Ingreso asalariados plenos","Varones",2473
+8,"2º Trim",2010,"Ingreso asalariados plenos","Varones",2621
+8,"3º Trim",2010,"Ingreso asalariados plenos","Varones",2865
+8,"4º Trim",2010,"Ingreso asalariados plenos","Varones",2972
+8,"1º Trim",2011,"Ingreso asalariados plenos","Varones",3114
+8,"2º Trim",2011,"Ingreso asalariados plenos","Varones",3449
+8,"3º Trim",2011,"Ingreso asalariados plenos","Varones",3737
+8,"4º Trim",2011,"Ingreso asalariados plenos","Varones",3976
+8,"1º Trim",2012,"Ingreso asalariados plenos","Varones",4065
+8,"2º Trim",2012,"Ingreso asalariados plenos","Varones",4320
+8,"3º Trim",2012,"Ingreso asalariados plenos","Varones",4688
+8,"4º Trim",2012,"Ingreso asalariados plenos","Varones",4722
+8,"1º Trim",2013,"Ingreso asalariados plenos","Varones",5121
+8,"2º Trim",2013,"Ingreso asalariados plenos","Varones",5391
+8,"3º Trim",2013,"Ingreso asalariados plenos","Varones",5858
+8,"4º Trim",2013,"Ingreso asalariados plenos","Varones",6198
+8,"1º Trim",2014,"Ingreso asalariados plenos","Varones",6517
+8,"2º Trim",2014,"Ingreso asalariados plenos","Varones",7065
+8,"3º Trim",2014,"Ingreso asalariados plenos","Varones",7456
+8,"4º Trim",2014,"Ingreso asalariados plenos","Varones",8198
+8,"1º Trim",2015,"Ingreso asalariados plenos","Varones",8403
+8,"2º Trim",2015,"Ingreso asalariados plenos","Varones",8994
+8,"3º Trim",2015,"Ingreso asalariados plenos","Varones",NA
+8,"4º Trim",2015,"Ingreso asalariados plenos","Varones",NA
+8,"1º Trim",2016,"Ingreso asalariados plenos","Varones",NA
+8,"2º Trim",2016,"Ingreso asalariados plenos","Varones",12712
+8,"3º Trim",2016,"Ingreso asalariados plenos","Varones",13093
+8,"4º Trim",2016,"Ingreso asalariados plenos","Varones",14306
+8,"1º Trim",2017,"Ingreso asalariados plenos","Varones",15251
+8,"2º Trim",2017,"Ingreso asalariados plenos","Varones",16379
+8,"3º Trim",2017,"Ingreso asalariados plenos","Varones",17289
+8,"4º Trim",2017,"Ingreso asalariados plenos","Varones",18347
+8,"1º Trim",2018,"Ingreso asalariados plenos","Varones",19585
+8,"2º Trim",2018,"Ingreso asalariados plenos","Varones",20461
+8,"3º Trim",2018,"Ingreso asalariados plenos","Varones",21487
+8,"4º Trim",2018,"Ingreso asalariados plenos","Varones",23437
+8,"1º Trim",2019,"Ingreso asalariados plenos","Varones",25046
+8,"2º Trim",2019,"Ingreso asalariados plenos","Varones",27472
+8,"3º Trim",2019,"Ingreso asalariados plenos","Varones",30705
+8,"4º Trim",2019,"Ingreso asalariados plenos","Varones",33281
+8,"1º Trim",2020,"Ingreso asalariados plenos","Varones",35660
+8,"2º Trim",2020,"Ingreso asalariados plenos","Varones",44587
+8,"3º Trim",2020,"Ingreso asalariados plenos","Varones",41988
+8,"4º Trim",2020,"Ingreso asalariados plenos","Varones",43060
+8,"1º Trim",2021,"Ingreso asalariados plenos","Varones",48999
+8,"2º Trim",2021,"Ingreso asalariados plenos","Varones",59291
+8,"3º Trim",2021,"Ingreso asalariados plenos","Varones",62013
+8,"4º Trim",2021,"Ingreso asalariados plenos","Varones",67698
+8,"1º Trim",2022,"Ingreso asalariados plenos","Varones",78282
+8,"2º Trim",2022,"Ingreso asalariados plenos","Varones",87471
+8,"3º Trim",2022,"Ingreso asalariados plenos","Varones",97577
+8,"3º Trim",2003,"Ingreso ocupados","Mujeres",532
+8,"4º Trim",2003,"Ingreso ocupados","Mujeres",529
+8,"1º Trim",2004,"Ingreso ocupados","Mujeres",558
+8,"2º Trim",2004,"Ingreso ocupados","Mujeres",541
+8,"3º Trim",2004,"Ingreso ocupados","Mujeres",556
+8,"4º Trim",2004,"Ingreso ocupados","Mujeres",569
+8,"1º Trim",2005,"Ingreso ocupados","Mujeres",593
+8,"2º Trim",2005,"Ingreso ocupados","Mujeres",622
+8,"3º Trim",2005,"Ingreso ocupados","Mujeres",702
+8,"4º Trim",2005,"Ingreso ocupados","Mujeres",697
+8,"1º Trim",2006,"Ingreso ocupados","Mujeres",755
+8,"2º Trim",2006,"Ingreso ocupados","Mujeres",758
+8,"3º Trim",2006,"Ingreso ocupados","Mujeres",825
+8,"4º Trim",2006,"Ingreso ocupados","Mujeres",862
+8,"1º Trim",2007,"Ingreso ocupados","Mujeres",918
+8,"2º Trim",2007,"Ingreso ocupados","Mujeres",943
+8,"3º Trim",2007,"Ingreso ocupados","Mujeres",NA
+8,"4º Trim",2007,"Ingreso ocupados","Mujeres",1071
+8,"1º Trim",2008,"Ingreso ocupados","Mujeres",1164
+8,"2º Trim",2008,"Ingreso ocupados","Mujeres",1245
+8,"3º Trim",2008,"Ingreso ocupados","Mujeres",1279
+8,"4º Trim",2008,"Ingreso ocupados","Mujeres",1340
+8,"1º Trim",2009,"Ingreso ocupados","Mujeres",1494
+8,"2º Trim",2009,"Ingreso ocupados","Mujeres",1497
+8,"3º Trim",2009,"Ingreso ocupados","Mujeres",1575
+8,"4º Trim",2009,"Ingreso ocupados","Mujeres",1660
+8,"1º Trim",2010,"Ingreso ocupados","Mujeres",1780
+8,"2º Trim",2010,"Ingreso ocupados","Mujeres",1811
+8,"3º Trim",2010,"Ingreso ocupados","Mujeres",1906
+8,"4º Trim",2010,"Ingreso ocupados","Mujeres",2114
+8,"1º Trim",2011,"Ingreso ocupados","Mujeres",2225
+8,"2º Trim",2011,"Ingreso ocupados","Mujeres",2353
+8,"3º Trim",2011,"Ingreso ocupados","Mujeres",2522
+8,"4º Trim",2011,"Ingreso ocupados","Mujeres",2684
+8,"1º Trim",2012,"Ingreso ocupados","Mujeres",2915
+8,"2º Trim",2012,"Ingreso ocupados","Mujeres",2945
+8,"3º Trim",2012,"Ingreso ocupados","Mujeres",3100
+8,"4º Trim",2012,"Ingreso ocupados","Mujeres",3310
+8,"1º Trim",2013,"Ingreso ocupados","Mujeres",3619
+8,"2º Trim",2013,"Ingreso ocupados","Mujeres",3632
+8,"3º Trim",2013,"Ingreso ocupados","Mujeres",4032
+8,"4º Trim",2013,"Ingreso ocupados","Mujeres",4219
+8,"1º Trim",2014,"Ingreso ocupados","Mujeres",4485
+8,"2º Trim",2014,"Ingreso ocupados","Mujeres",4737
+8,"3º Trim",2014,"Ingreso ocupados","Mujeres",5145
+8,"4º Trim",2014,"Ingreso ocupados","Mujeres",5509
+8,"1º Trim",2015,"Ingreso ocupados","Mujeres",5963
+8,"2º Trim",2015,"Ingreso ocupados","Mujeres",6355
+8,"3º Trim",2015,"Ingreso ocupados","Mujeres",NA
+8,"4º Trim",2015,"Ingreso ocupados","Mujeres",NA
+8,"1º Trim",2016,"Ingreso ocupados","Mujeres",NA
+8,"2º Trim",2016,"Ingreso ocupados","Mujeres",8673
+8,"3º Trim",2016,"Ingreso ocupados","Mujeres",9085
+8,"4º Trim",2016,"Ingreso ocupados","Mujeres",9911
+8,"1º Trim",2017,"Ingreso ocupados","Mujeres",10501
+8,"2º Trim",2017,"Ingreso ocupados","Mujeres",10764
+8,"3º Trim",2017,"Ingreso ocupados","Mujeres",11567
+8,"4º Trim",2017,"Ingreso ocupados","Mujeres",12645
+8,"1º Trim",2018,"Ingreso ocupados","Mujeres",13420
+8,"2º Trim",2018,"Ingreso ocupados","Mujeres",13665
+8,"3º Trim",2018,"Ingreso ocupados","Mujeres",14397
+8,"4º Trim",2018,"Ingreso ocupados","Mujeres",15818
+8,"1º Trim",2019,"Ingreso ocupados","Mujeres",17041
+8,"2º Trim",2019,"Ingreso ocupados","Mujeres",18440
+8,"3º Trim",2019,"Ingreso ocupados","Mujeres",20818
+8,"4º Trim",2019,"Ingreso ocupados","Mujeres",22180
+8,"1º Trim",2020,"Ingreso ocupados","Mujeres",24336
+8,"2º Trim",2020,"Ingreso ocupados","Mujeres",27856
+8,"3º Trim",2020,"Ingreso ocupados","Mujeres",27272
+8,"4º Trim",2020,"Ingreso ocupados","Mujeres",28938
+8,"1º Trim",2021,"Ingreso ocupados","Mujeres",33287
+8,"2º Trim",2021,"Ingreso ocupados","Mujeres",36817
+8,"3º Trim",2021,"Ingreso ocupados","Mujeres",41531
+8,"4º Trim",2021,"Ingreso ocupados","Mujeres",45990
+8,"1º Trim",2022,"Ingreso ocupados","Mujeres",51674
+8,"2º Trim",2022,"Ingreso ocupados","Mujeres",55770
+8,"3º Trim",2022,"Ingreso ocupados","Mujeres",67064
+8,"3º Trim",2003,"Ingreso ocupados","Varones",697
+8,"4º Trim",2003,"Ingreso ocupados","Varones",723
+8,"1º Trim",2004,"Ingreso ocupados","Varones",767
+8,"2º Trim",2004,"Ingreso ocupados","Varones",760
+8,"3º Trim",2004,"Ingreso ocupados","Varones",763
+8,"4º Trim",2004,"Ingreso ocupados","Varones",792
+8,"1º Trim",2005,"Ingreso ocupados","Varones",843
+8,"2º Trim",2005,"Ingreso ocupados","Varones",873
+8,"3º Trim",2005,"Ingreso ocupados","Varones",937
+8,"4º Trim",2005,"Ingreso ocupados","Varones",971
+8,"1º Trim",2006,"Ingreso ocupados","Varones",1078
+8,"2º Trim",2006,"Ingreso ocupados","Varones",1088
+8,"3º Trim",2006,"Ingreso ocupados","Varones",1128
+8,"4º Trim",2006,"Ingreso ocupados","Varones",1210
+8,"1º Trim",2007,"Ingreso ocupados","Varones",1275
+8,"2º Trim",2007,"Ingreso ocupados","Varones",1321
+8,"3º Trim",2007,"Ingreso ocupados","Varones",NA
+8,"4º Trim",2007,"Ingreso ocupados","Varones",1532
+8,"1º Trim",2008,"Ingreso ocupados","Varones",1619
+8,"2º Trim",2008,"Ingreso ocupados","Varones",1682
+8,"3º Trim",2008,"Ingreso ocupados","Varones",1770
+8,"4º Trim",2008,"Ingreso ocupados","Varones",1856
+8,"1º Trim",2009,"Ingreso ocupados","Varones",1958
+8,"2º Trim",2009,"Ingreso ocupados","Varones",1985
+8,"3º Trim",2009,"Ingreso ocupados","Varones",2094
+8,"4º Trim",2009,"Ingreso ocupados","Varones",2180
+8,"1º Trim",2010,"Ingreso ocupados","Varones",2292
+8,"2º Trim",2010,"Ingreso ocupados","Varones",2439
+8,"3º Trim",2010,"Ingreso ocupados","Varones",2632
+8,"4º Trim",2010,"Ingreso ocupados","Varones",2766
+8,"1º Trim",2011,"Ingreso ocupados","Varones",2912
+8,"2º Trim",2011,"Ingreso ocupados","Varones",3141
+8,"3º Trim",2011,"Ingreso ocupados","Varones",3375
+8,"4º Trim",2011,"Ingreso ocupados","Varones",3575
+8,"1º Trim",2012,"Ingreso ocupados","Varones",3713
+8,"2º Trim",2012,"Ingreso ocupados","Varones",3842
+8,"3º Trim",2012,"Ingreso ocupados","Varones",4152
+8,"4º Trim",2012,"Ingreso ocupados","Varones",4222
+8,"1º Trim",2013,"Ingreso ocupados","Varones",4697
+8,"2º Trim",2013,"Ingreso ocupados","Varones",4846
+8,"3º Trim",2013,"Ingreso ocupados","Varones",5282
+8,"4º Trim",2013,"Ingreso ocupados","Varones",5553
+8,"1º Trim",2014,"Ingreso ocupados","Varones",5867
+8,"2º Trim",2014,"Ingreso ocupados","Varones",6345
+8,"3º Trim",2014,"Ingreso ocupados","Varones",6767
+8,"4º Trim",2014,"Ingreso ocupados","Varones",7224
+8,"1º Trim",2015,"Ingreso ocupados","Varones",7630
+8,"2º Trim",2015,"Ingreso ocupados","Varones",8108
+8,"3º Trim",2015,"Ingreso ocupados","Varones",NA
+8,"4º Trim",2015,"Ingreso ocupados","Varones",NA
+8,"1º Trim",2016,"Ingreso ocupados","Varones",NA
+8,"2º Trim",2016,"Ingreso ocupados","Varones",11336
+8,"3º Trim",2016,"Ingreso ocupados","Varones",12087
+8,"4º Trim",2016,"Ingreso ocupados","Varones",12805
+8,"1º Trim",2017,"Ingreso ocupados","Varones",13697
+8,"2º Trim",2017,"Ingreso ocupados","Varones",14568
+8,"3º Trim",2017,"Ingreso ocupados","Varones",15311
+8,"4º Trim",2017,"Ingreso ocupados","Varones",16287
+8,"1º Trim",2018,"Ingreso ocupados","Varones",17805
+8,"2º Trim",2018,"Ingreso ocupados","Varones",18284
+8,"3º Trim",2018,"Ingreso ocupados","Varones",19084
+8,"4º Trim",2018,"Ingreso ocupados","Varones",21321
+8,"1º Trim",2019,"Ingreso ocupados","Varones",23128
+8,"2º Trim",2019,"Ingreso ocupados","Varones",24817
+8,"3º Trim",2019,"Ingreso ocupados","Varones",27882
+8,"4º Trim",2019,"Ingreso ocupados","Varones",30026
+8,"1º Trim",2020,"Ingreso ocupados","Varones",32018
+8,"2º Trim",2020,"Ingreso ocupados","Varones",35427
+8,"3º Trim",2020,"Ingreso ocupados","Varones",34204
+8,"4º Trim",2020,"Ingreso ocupados","Varones",36890
+8,"1º Trim",2021,"Ingreso ocupados","Varones",44428
+8,"2º Trim",2021,"Ingreso ocupados","Varones",51468
+8,"3º Trim",2021,"Ingreso ocupados","Varones",55077
+8,"4º Trim",2021,"Ingreso ocupados","Varones",59575
+8,"1º Trim",2022,"Ingreso ocupados","Varones",70811
+8,"2º Trim",2022,"Ingreso ocupados","Varones",76272
+8,"3º Trim",2022,"Ingreso ocupados","Varones",85747
+8,"3º Trim",2003,"Ingreso ocupados plenos","Mujeres",690
+8,"4º Trim",2003,"Ingreso ocupados plenos","Mujeres",695
+8,"1º Trim",2004,"Ingreso ocupados plenos","Mujeres",703
+8,"2º Trim",2004,"Ingreso ocupados plenos","Mujeres",694
+8,"3º Trim",2004,"Ingreso ocupados plenos","Mujeres",729
+8,"4º Trim",2004,"Ingreso ocupados plenos","Mujeres",743
+8,"1º Trim",2005,"Ingreso ocupados plenos","Mujeres",719
+8,"2º Trim",2005,"Ingreso ocupados plenos","Mujeres",802
+8,"3º Trim",2005,"Ingreso ocupados plenos","Mujeres",850
+8,"4º Trim",2005,"Ingreso ocupados plenos","Mujeres",887
+8,"1º Trim",2006,"Ingreso ocupados plenos","Mujeres",941
+8,"2º Trim",2006,"Ingreso ocupados plenos","Mujeres",993
+8,"3º Trim",2006,"Ingreso ocupados plenos","Mujeres",1061
+8,"4º Trim",2006,"Ingreso ocupados plenos","Mujeres",1076
+8,"1º Trim",2007,"Ingreso ocupados plenos","Mujeres",1107
+8,"2º Trim",2007,"Ingreso ocupados plenos","Mujeres",1195
+8,"3º Trim",2007,"Ingreso ocupados plenos","Mujeres",NA
+8,"4º Trim",2007,"Ingreso ocupados plenos","Mujeres",1330
+8,"1º Trim",2008,"Ingreso ocupados plenos","Mujeres",1381
+8,"2º Trim",2008,"Ingreso ocupados plenos","Mujeres",1538
+8,"3º Trim",2008,"Ingreso ocupados plenos","Mujeres",1581
+8,"4º Trim",2008,"Ingreso ocupados plenos","Mujeres",1619
+8,"1º Trim",2009,"Ingreso ocupados plenos","Mujeres",1822
+8,"2º Trim",2009,"Ingreso ocupados plenos","Mujeres",1902
+8,"3º Trim",2009,"Ingreso ocupados plenos","Mujeres",1975
+8,"4º Trim",2009,"Ingreso ocupados plenos","Mujeres",2108
+8,"1º Trim",2010,"Ingreso ocupados plenos","Mujeres",2159
+8,"2º Trim",2010,"Ingreso ocupados plenos","Mujeres",2290
+8,"3º Trim",2010,"Ingreso ocupados plenos","Mujeres",2396
+8,"4º Trim",2010,"Ingreso ocupados plenos","Mujeres",2651
+8,"1º Trim",2011,"Ingreso ocupados plenos","Mujeres",2678
+8,"2º Trim",2011,"Ingreso ocupados plenos","Mujeres",2971
+8,"3º Trim",2011,"Ingreso ocupados plenos","Mujeres",3180
+8,"4º Trim",2011,"Ingreso ocupados plenos","Mujeres",3334
+8,"1º Trim",2012,"Ingreso ocupados plenos","Mujeres",3546
+8,"2º Trim",2012,"Ingreso ocupados plenos","Mujeres",3751
+8,"3º Trim",2012,"Ingreso ocupados plenos","Mujeres",3985
+8,"4º Trim",2012,"Ingreso ocupados plenos","Mujeres",4251
+8,"1º Trim",2013,"Ingreso ocupados plenos","Mujeres",4509
+8,"2º Trim",2013,"Ingreso ocupados plenos","Mujeres",4576
+8,"3º Trim",2013,"Ingreso ocupados plenos","Mujeres",5109
+8,"4º Trim",2013,"Ingreso ocupados plenos","Mujeres",5301
+8,"1º Trim",2014,"Ingreso ocupados plenos","Mujeres",5509
+8,"2º Trim",2014,"Ingreso ocupados plenos","Mujeres",6060
+8,"3º Trim",2014,"Ingreso ocupados plenos","Mujeres",6500
+8,"4º Trim",2014,"Ingreso ocupados plenos","Mujeres",6947
+8,"1º Trim",2015,"Ingreso ocupados plenos","Mujeres",7374
+8,"2º Trim",2015,"Ingreso ocupados plenos","Mujeres",8140
+8,"3º Trim",2015,"Ingreso ocupados plenos","Mujeres",NA
+8,"4º Trim",2015,"Ingreso ocupados plenos","Mujeres",NA
+8,"1º Trim",2016,"Ingreso ocupados plenos","Mujeres",NA
+8,"2º Trim",2016,"Ingreso ocupados plenos","Mujeres",11102
+8,"3º Trim",2016,"Ingreso ocupados plenos","Mujeres",11696
+8,"4º Trim",2016,"Ingreso ocupados plenos","Mujeres",12814
+8,"1º Trim",2017,"Ingreso ocupados plenos","Mujeres",13160
+8,"2º Trim",2017,"Ingreso ocupados plenos","Mujeres",14028
+8,"3º Trim",2017,"Ingreso ocupados plenos","Mujeres",14860
+8,"4º Trim",2017,"Ingreso ocupados plenos","Mujeres",17577
+8,"1º Trim",2018,"Ingreso ocupados plenos","Mujeres",17201
+8,"2º Trim",2018,"Ingreso ocupados plenos","Mujeres",17528
+8,"3º Trim",2018,"Ingreso ocupados plenos","Mujeres",18922
+8,"4º Trim",2018,"Ingreso ocupados plenos","Mujeres",21185
+8,"1º Trim",2019,"Ingreso ocupados plenos","Mujeres",21962
+8,"2º Trim",2019,"Ingreso ocupados plenos","Mujeres",23994
+8,"3º Trim",2019,"Ingreso ocupados plenos","Mujeres",27066
+8,"4º Trim",2019,"Ingreso ocupados plenos","Mujeres",29274
+8,"1º Trim",2020,"Ingreso ocupados plenos","Mujeres",31234
+8,"2º Trim",2020,"Ingreso ocupados plenos","Mujeres",35899
+8,"3º Trim",2020,"Ingreso ocupados plenos","Mujeres",36423
+8,"4º Trim",2020,"Ingreso ocupados plenos","Mujeres",39140
+8,"1º Trim",2021,"Ingreso ocupados plenos","Mujeres",42976
+8,"2º Trim",2021,"Ingreso ocupados plenos","Mujeres",48404
+8,"3º Trim",2021,"Ingreso ocupados plenos","Mujeres",54975
+8,"4º Trim",2021,"Ingreso ocupados plenos","Mujeres",59298
+8,"1º Trim",2022,"Ingreso ocupados plenos","Mujeres",66129
+8,"2º Trim",2022,"Ingreso ocupados plenos","Mujeres",71425
+8,"3º Trim",2022,"Ingreso ocupados plenos","Mujeres",88689
+8,"3º Trim",2003,"Ingreso ocupados plenos","Varones",788
+8,"4º Trim",2003,"Ingreso ocupados plenos","Varones",805
+8,"1º Trim",2004,"Ingreso ocupados plenos","Varones",857
+8,"2º Trim",2004,"Ingreso ocupados plenos","Varones",856
+8,"3º Trim",2004,"Ingreso ocupados plenos","Varones",846
+8,"4º Trim",2004,"Ingreso ocupados plenos","Varones",879
+8,"1º Trim",2005,"Ingreso ocupados plenos","Varones",908
+8,"2º Trim",2005,"Ingreso ocupados plenos","Varones",969
+8,"3º Trim",2005,"Ingreso ocupados plenos","Varones",1043
+8,"4º Trim",2005,"Ingreso ocupados plenos","Varones",1069
+8,"1º Trim",2006,"Ingreso ocupados plenos","Varones",1146
+8,"2º Trim",2006,"Ingreso ocupados plenos","Varones",1199
+8,"3º Trim",2006,"Ingreso ocupados plenos","Varones",1239
+8,"4º Trim",2006,"Ingreso ocupados plenos","Varones",1293
+8,"1º Trim",2007,"Ingreso ocupados plenos","Varones",1359
+8,"2º Trim",2007,"Ingreso ocupados plenos","Varones",1454
+8,"3º Trim",2007,"Ingreso ocupados plenos","Varones",NA
+8,"4º Trim",2007,"Ingreso ocupados plenos","Varones",1654
+8,"1º Trim",2008,"Ingreso ocupados plenos","Varones",1728
+8,"2º Trim",2008,"Ingreso ocupados plenos","Varones",1820
+8,"3º Trim",2008,"Ingreso ocupados plenos","Varones",1900
+8,"4º Trim",2008,"Ingreso ocupados plenos","Varones",2008
+8,"1º Trim",2009,"Ingreso ocupados plenos","Varones",2075
+8,"2º Trim",2009,"Ingreso ocupados plenos","Varones",2156
+8,"3º Trim",2009,"Ingreso ocupados plenos","Varones",2281
+8,"4º Trim",2009,"Ingreso ocupados plenos","Varones",2365
+8,"1º Trim",2010,"Ingreso ocupados plenos","Varones",2472
+8,"2º Trim",2010,"Ingreso ocupados plenos","Varones",2656
+8,"3º Trim",2010,"Ingreso ocupados plenos","Varones",2879
+8,"4º Trim",2010,"Ingreso ocupados plenos","Varones",2959
+8,"1º Trim",2011,"Ingreso ocupados plenos","Varones",3092
+8,"2º Trim",2011,"Ingreso ocupados plenos","Varones",3386
+8,"3º Trim",2011,"Ingreso ocupados plenos","Varones",3677
+8,"4º Trim",2011,"Ingreso ocupados plenos","Varones",3858
+8,"1º Trim",2012,"Ingreso ocupados plenos","Varones",3926
+8,"2º Trim",2012,"Ingreso ocupados plenos","Varones",4177
+8,"3º Trim",2012,"Ingreso ocupados plenos","Varones",4552
+8,"4º Trim",2012,"Ingreso ocupados plenos","Varones",4559
+8,"1º Trim",2013,"Ingreso ocupados plenos","Varones",5004
+8,"2º Trim",2013,"Ingreso ocupados plenos","Varones",5276
+8,"3º Trim",2013,"Ingreso ocupados plenos","Varones",5711
+8,"4º Trim",2013,"Ingreso ocupados plenos","Varones",5972
+8,"1º Trim",2014,"Ingreso ocupados plenos","Varones",6240
+8,"2º Trim",2014,"Ingreso ocupados plenos","Varones",6858
+8,"3º Trim",2014,"Ingreso ocupados plenos","Varones",7355
+8,"4º Trim",2014,"Ingreso ocupados plenos","Varones",7890
+8,"1º Trim",2015,"Ingreso ocupados plenos","Varones",8128
+8,"2º Trim",2015,"Ingreso ocupados plenos","Varones",8755
+8,"3º Trim",2015,"Ingreso ocupados plenos","Varones",NA
+8,"4º Trim",2015,"Ingreso ocupados plenos","Varones",NA
+8,"1º Trim",2016,"Ingreso ocupados plenos","Varones",NA
+8,"2º Trim",2016,"Ingreso ocupados plenos","Varones",12466
+8,"3º Trim",2016,"Ingreso ocupados plenos","Varones",13163
+8,"4º Trim",2016,"Ingreso ocupados plenos","Varones",14024
+8,"1º Trim",2017,"Ingreso ocupados plenos","Varones",14832
+8,"2º Trim",2017,"Ingreso ocupados plenos","Varones",16134
+8,"3º Trim",2017,"Ingreso ocupados plenos","Varones",16955
+8,"4º Trim",2017,"Ingreso ocupados plenos","Varones",16607
+8,"1º Trim",2018,"Ingreso ocupados plenos","Varones",19253
+8,"2º Trim",2018,"Ingreso ocupados plenos","Varones",19930
+8,"3º Trim",2018,"Ingreso ocupados plenos","Varones",20830
+8,"4º Trim",2018,"Ingreso ocupados plenos","Varones",23639
+8,"1º Trim",2019,"Ingreso ocupados plenos","Varones",25404
+8,"2º Trim",2019,"Ingreso ocupados plenos","Varones",27624
+8,"3º Trim",2019,"Ingreso ocupados plenos","Varones",30723
+8,"4º Trim",2019,"Ingreso ocupados plenos","Varones",33357
+8,"1º Trim",2020,"Ingreso ocupados plenos","Varones",34441
+8,"2º Trim",2020,"Ingreso ocupados plenos","Varones",41312
+8,"3º Trim",2020,"Ingreso ocupados plenos","Varones",38942
+8,"4º Trim",2020,"Ingreso ocupados plenos","Varones",41081
+8,"1º Trim",2021,"Ingreso ocupados plenos","Varones",47673
+8,"2º Trim",2021,"Ingreso ocupados plenos","Varones",58268
+8,"3º Trim",2021,"Ingreso ocupados plenos","Varones",60266
+8,"4º Trim",2021,"Ingreso ocupados plenos","Varones",66323
+8,"1º Trim",2022,"Ingreso ocupados plenos","Varones",75925
+8,"2º Trim",2022,"Ingreso ocupados plenos","Varones",83312
+8,"3º Trim",2022,"Ingreso ocupados plenos","Varones",95016
